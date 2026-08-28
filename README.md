@@ -46,3 +46,7 @@ This tool is a static review aid, not a cloud billing calculator.
 ## License
 
 MIT
+
+## Change-control audit
+
+See `docs/REPOSITORY-CHANGE-AUDIT-2026-08-28.md` for change-control and traceability rules.
